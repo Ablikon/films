@@ -5,7 +5,7 @@ import './RomanticSection.css';
 const movieCouples = [
   {
     id: 1,
-    originalImage: '/1-orig.jpg',
+    originalImage: '/1-orig.JPG',
     generatedImage: '/1-gen.png',
     movieTitle: 'Укрощение строптивого',
     characters: ' Орнелла и Адриано',
@@ -13,7 +13,7 @@ const movieCouples = [
   },
   {
     id: 2,
-    originalImage: '/2-orig.jpg',
+    originalImage: '/2-orig.JPG',
     generatedImage: '/2-gen.png',
     movieTitle: 'Американская семейка',
     characters: 'Глория и Джей Притчетт',
@@ -29,7 +29,7 @@ const movieCouples = [
   },
   {
     id: 4,
-    originalImage: '/4-orig.jpg',
+    originalImage: '/4-orig.JPG',
     generatedImage: '/4-gen.png',
     movieTitle: 'Искупление',
     characters: 'Сесилия и Робби',
@@ -37,7 +37,7 @@ const movieCouples = [
   },
   {
     id: 5,
-    originalImage: '/5-orig.jpg',
+    originalImage: '/5-orig.JPG',
     generatedImage: '/5-gen.png',
     movieTitle: 'Амели',
     characters: 'Амели и Нино',
