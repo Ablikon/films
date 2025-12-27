@@ -13,7 +13,7 @@ const movieCouples = [
   },
   {
     id: 2,
-    originalImage: '/2-orig.JPG',
+    originalImage: '/2-orig.jpg',
     generatedImage: '/2-gen.png',
     movieTitle: 'Американская семейка',
     characters: 'Глория и Джей Притчетт',
@@ -29,7 +29,7 @@ const movieCouples = [
   },
   {
     id: 4,
-    originalImage: '/4-orig.JPG',
+    originalImage: '/4-orig.jpg',
     generatedImage: '/4-gen.png',
     movieTitle: 'Искупление',
     characters: 'Сесилия и Робби',
